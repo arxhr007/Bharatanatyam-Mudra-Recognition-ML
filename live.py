@@ -1,3 +1,4 @@
+import check_python
 import joblib
 import cv2
 import mediapipe as mp
