@@ -1,0 +1,5 @@
+Bharatanatyam-Mudra-Dataset/
+venv
+__pycache__
+mudra_model.pkl
+label_encoder.pkl
