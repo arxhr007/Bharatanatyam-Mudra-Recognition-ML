@@ -6,6 +6,10 @@
 
 ---
 
+> [!warning]
+> Important: This project requires Python 3.10
+It will NOT work with the latest Python versions (like 3.13 / 3.14) due to MediaPipe compatibility issues.
+
 ## Quick Start
 
 ### 1. Setup
