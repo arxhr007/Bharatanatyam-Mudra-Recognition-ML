@@ -1,6 +1,6 @@
 opencv-python
-mediapipe
 numpy
 pandas
 joblib
 scikit-learn
+mediapipe==0.10.9
