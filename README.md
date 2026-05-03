@@ -133,7 +133,7 @@ python live.py
 
 ---
 
-## To learn and understand how the system works, please refer to working.md
+## To learn and understand how the system works, please refer to [WORKING.md](working.md)
 
 ---
 
