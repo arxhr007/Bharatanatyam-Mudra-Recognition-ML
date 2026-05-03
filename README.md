@@ -110,6 +110,7 @@ python live.py
 
 
 
+
 ---
 
 ## Project Structure
@@ -128,17 +129,7 @@ python live.py
 
 ---
 
-## How It Works
-
-* MediaPipe extracts 21 hand landmarks
-* Features are normalized relative to wrist
-* Model predicts mudra from feature vector
-
-Pipeline:
-
-```
-Webcam → MediaPipe → Features → Model → Prediction
-```
+## To learn and understand how the system works, please refer to working.md
 
 ---
 
