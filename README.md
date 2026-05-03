@@ -56,30 +56,29 @@ python live.py
 | 2  | Tripathaka           | 2  | Kapota             |
 | 3  | Ardhapathaka         | 3  | Karkata            |
 | 4  | Kartarimukha         | 4  | Swastika           |
-| 5  | Mayura               | 5  | Dola               |
-| 6  | Ardhachandra         | 6  | Pushpaputa         |
-| 7  | Arala                | 7  | Utsanga            |
-| 8  | Shukatunda           | 8  | Shivalinga         |
-| 9  | Mushti               | 9  | Katakavardhana     |
-| 10 | Shikhara             | 10 | Kartariswastika    |
-| 11 | Kapittha             | 11 | Shakata            |
-| 12 | Katakamukha (1,2,3)  | 12 | Shankha            |
-| 13 | Suchi                | 13 | Chakra             |
-| 14 | Chandrakala          | 14 | Samputa            |
-| 15 | Padmakosha           | 15 | Pasha              |
-| 16 | Sarpasirsha          | 16 | Kilaka             |
-| 17 | Mrigasirsha          | 17 | Matsya             |
-| 18 | Simhamukha           | 18 | Kurma              |
-| 19 | Kangula              | 19 | Varaha             |
-| 20 | Alapadma             | 20 | Garuda             |
-| 21 | Chatura              | 21 | Nagabandha         |
-| 22 | Bhramara             | 22 | Khatva             |
-| 23 | Hamsasya             | 23 | Bherunda           |
+| 5  | Mayura               | 5  | Pushpaputa         |
+| 6  | Ardhachandra         | 6  | Shivalinga         |
+| 7  | Arala                | 7  | Katakavardhana     |
+| 8  | Shukatunda           | 8  | Kartariswastika    |
+| 9  | Mushti               | 9  | Shakata            |
+| 10 | Shikhara             | 10 | Shankha            |
+| 11 | Kapittha             | 11 | Chakra             |
+| 12 | Katakamukha (1,2,3)  | 12 | Samputa            |
+| 13 | Suchi                | 13 | Pasha              |
+| 14 | Chandrakala          | 14 | Kilaka             |
+| 15 | Padmakosha           | 15 | Matsya             |
+| 16 | Sarpasirsha          | 16 | Kurma              |
+| 17 | Mrigasirsha          | 17 | Varaha             |
+| 18 | Simhamukha           | 18 | Garuda             |
+| 19 | Kangula              | 19 | Nagabandha         |
+| 20 | Alapadma             | 20 | Khatva             |
+| 21 | Chatura              | 21 | Bherunda           |
+| 22 | Bhramara             |    |                    |
+| 23 | Hamsasya             |    |                    |
 | 24 | Hamsapaksha          |    |                    |
-| 25 | Sandamsha            |    |                    |
-| 26 | Mukula               |    |                    |
-| 27 | Tamrachuda           |    |                    |
-| 28 | Trishula             |    |                    |
+| 25 | Mukula               |    |                    |
+| 26 | Tamrachuda           |    |                    |
+| 27 | Trishula             |    |                    |
 
 ---
 
